@@ -16,6 +16,16 @@ The line was built for this bounty judge's own criteria, in order:
   5. Fresh: the "building believes in me" turn is not a stock gym
      punchline; it is a self-own with a new image.
 
+Alternatives considered and rejected:
+  - Laundry chair ("open-plan wardrobe"): recognisable, but the
+    punch is a reframe, not a surprise -- it grins rather than laughs.
+  - Houseplant landlord: vivid image, but the twist lands mid-line
+    instead of on the last words.
+  - Phone dying at 1% ("planned its own funeral"): strong final
+    phrase, but the 1% premise is one the judge has heard many times.
+The gym line wins on the judge's own order: its surprise is last,
+its truth is the most widely shared, and its wording is the tightest.
+
 Deterministic: the line is a fixed string, no randomness, no network,
 no model calls. Both runs write the same bytes.
 
